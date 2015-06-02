@@ -23,6 +23,42 @@
 
 ## Instructions
 
+### Install / Update RVM(Ruby)
+```
+curl -sSL https://get.rvm.io | bash -s stable
+```
+### Install Homebrew
+
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+### Check / Update Homebrew
+
+```
+brew doctor
+brew update
+```
+### Install Git / Verify
+
+```
+brew install git
+git --version
+```
+
+### Postgres / Node / Bower
+*You may have to sudo bower*
+```
+brew install mysql
+brew install postgresql
+brew install node
+```
+
+### Bower and Rails
+```
+npm install -g bower
+gem install rails -v 4.2.1
+```
+### Setting Up Git
 
 **INSTRUCTIONS GO HERE**
 
