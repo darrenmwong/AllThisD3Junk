@@ -5,10 +5,12 @@
 ## Tech
 
 * RoR (Ruby on Rails)
-* Angular ( Javascript )
+* Angular ( Javascript NO COFEESCRIPT )
 * CSS ( Ruby Sass)
-* Postgresql
-* Amazon AWS or Heroku ( TBD )
+* Bootstrap
+* Postgres
+* Amazon AWS or Heroku Deployment ( TBD )
+* [Diablo API](http://blizzard.github.io/d3-api-docs/) [Quick Read What Is API](http://en.wikipedia.org/wiki/Application_programming_interface)
 
 ## Requirements / Dependencies
 
@@ -26,9 +28,18 @@
 
 ## Resources
 
-* [Rails With Angular](http://angular-rails.com/)
-* [Learn RoR](http://www.codecademy.com/en/learn/learn-rails)
-* [Learn AngularJS](http://www.codecademy.com/en/learn/learn-angularjs)
+**Ordered List**
+
+* Terminal - [Learn Git](https://www.codeschool.com/paths/git)
+* Ruby - [Learn Ruby](http://www.codecademy.com/en/tracks/ruby)
+* SQL - Optional - [Intro To SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+* Wiki - [Quick Read MVC Architecture](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* Ruby/Javascript - [Learn Codeacademy Rails(RoR)](http://www.codecademy.com/en/learn/learn-rails) or [Zombie Rails](http://railsforzombies.org/)
+* Javascript - [Learn Javascript](http://www.codecademy.com/en/tracks/javascript)
+* Javascript - Optional - [Jquery](http://www.codecademy.com/en/tracks/jquery)
+* Javascript - [Learn AngularJS](http://www.codecademy.com/en/learn/learn-angularjs)
+* Javascript/Cofeescript - [Rails With Angular](http://angular-rails.com/)
+* CSS - [Learn Bootstrap](https://www.codeschool.com/courses/blasting-off-with-bootstrap)
 
 ## Maybe Features
 
